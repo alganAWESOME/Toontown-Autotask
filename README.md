@@ -1,5 +1,7 @@
 # Toontown Autotask
 
+I thought it would be cool to automate Toontown. Instructions will be released when the application is more usable.
+
 Adapted code from [learncodebygaming's OpenCV tutorial](https://github.com/learncodebygaming/opencv_tutorials/tree/master/007_canny_edge). In particular:
 - windowcapture.py, edgefilter.py, hsvfilter.py are unaltered
 - minor alterations to vision.py
