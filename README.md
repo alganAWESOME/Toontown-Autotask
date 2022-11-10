@@ -1,6 +1,6 @@
 # Toontown Autotask
 
-This is a work-in-progress computer vision bot that aims to play the 3D MMORPG Toontown.
+This is a work-in-progress computer vision bot that aims to play the 3D MMORPG Toontown. Instructions will be written once the program is more usable.
 
 So far, I've built the part of the bot that is activated once the player's objective is determined. The bot detects the location of the player and objective on the minimap, computes a path between the two points, and converts this path into arrow-key inputs so that the player automatically moves to the objective.
 
